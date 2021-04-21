@@ -1,0 +1,13 @@
+.bottom-panel {
+   margin-top: 20px;
+}
+
+.bottom-panel .new-post-label {
+   width: 100%;
+   flex-grow: 1;
+   margin-right: 3px;
+}
+
+.red {
+   border: 2px solid red;
+}
